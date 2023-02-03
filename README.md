@@ -7,3 +7,4 @@
 - CSS
 - React JS
 
+[live Link](https://3tic-tac-toe.netlify.app/)
